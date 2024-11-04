@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Advanced Node",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
